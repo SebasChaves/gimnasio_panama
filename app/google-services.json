@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "180383893539",
+    "project_id": "gimnasio-panama",
+    "storage_bucket": "gimnasio-panama.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180383893539:android:4577a6ec3fbe5338a84996",
+        "android_client_info": {
+          "package_name": "com.example.gimnasio_panama"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180383893539-p92k7jmmteliou28ptl93ehvqd3hmesd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOoLw4I9Er2Ku7hFysqfRu29YEpRTOA00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180383893539-p92k7jmmteliou28ptl93ehvqd3hmesd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
